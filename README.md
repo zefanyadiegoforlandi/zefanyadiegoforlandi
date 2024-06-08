@@ -1,3 +1,5 @@
+https://github.com/zefanyadiegoforlandi/zefanyadiegoforlandi/blob/main/backend_text_2.jpg
+
 <h1 align="center">Hi 👋, I'm Zefanya Diego Forlandicco</h1>
 <h3 align="center">A passionate backend developer from Indonesia</h3>
 
